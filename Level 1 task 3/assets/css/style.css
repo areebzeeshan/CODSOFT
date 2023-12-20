@@ -1,0 +1,29 @@
+.w-15{
+    width: 10vh !important;
+    height: 70px;
+    border-radius: 48px;
+}
+.outline{
+    outline: none;
+}
+.outline:focus{
+    outline: none;
+}
+.font-s{
+    font-size: 4em;
+    text-align: right;
+}
+.w-148{
+    width: 148px !important;
+    height: 70px;
+    border-radius: 48px;
+}
+.light-grey{
+    background-color: #9F9F9F;
+}
+.bg-orange{
+    background-color: #F69906;
+}
+.dark-grey{
+    background-color: #313131;
+}

@@ -1,0 +1,42 @@
+.linear-gradient{
+    background-image: linear-gradient(to right, #FBB05F, #DB42B4);
+}
+.bdr-check{
+    border-left: 1px solid white;
+}
+.bdr-check2{
+    border-right: 1px solid white;
+}
+.btn-outline{
+    border-color: white !important;
+    border-radius: 30px !important;
+}
+.linear-color{
+    background: -webkit-linear-gradient(#FBB05F, #DB42B4);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.hover{
+    background-color: #FBB05F;
+}
+.bg-image{
+    background-image: url(../images/bussiness-meeting.jpg);
+    height: 80vh;
+    background-repeat: no-repeat;
+}
+.outline{
+    border-radius: 30px !important;
+}
+.fs-lg{
+    font-size: 25px;
+}
+.bg-grey{
+    background-color: #F6F6F8;
+}
+.w-10{
+    width: 10%;
+}
+.bdr-left{
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
